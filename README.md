@@ -15,4 +15,4 @@ It has 3 states relating to the checksums.<ul>
 </ul>
 
 Here is a demo of how it works!
-![ezgif com-optimize](https://github.com/RawVendetta/HashCheckerSHA256/assets/45599046/2e6b209e-c2bc-4cea-b0ec-bed9b82a15ff)
+![ezgif com-optimize](https://github.com/RawVendetta/HashCheckerSHA256/assets/45599046/11f77985-68d0-49d8-b6fd-fa2f69b4452e)
